@@ -1,0 +1,59 @@
+{
+  "AddressBook": [
+    {
+      "id": 1,
+      "firstName": "Madhu",
+      "lastName": "Sudhan",
+      "address": "Kondapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": 500032,
+      "phoneNumber": "8247473242",
+      "emailId": "madhu@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Vikas",
+      "lastName": "Kumar",
+      "address": "yousufguda,
+      "city": "Vijayawada",
+      "state": "Andhra pradesh",
+      "zip": 500084,
+      "phoneNumber": "9502162168",
+      "emailId": "vikas@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Rufus",
+      "lastName": "Paul",
+      "address": "Ecil",
+      "city": "Vizag",
+      "state": "Assam",
+      "zip": 500085,
+      "phoneNumber": "9700593669",
+      "emailId": "rufus@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Sonnu",
+      "lastName": "Kumar",
+      "address": "malakpet",
+      "city": "Hyderabad",
+      "state": "kerala",
+      "zip": 1235,
+      "phoneNumber": "1234567890",
+      "emailId": "sonu@gmail.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Jeff",
+      "lastName": "Bezos",
+      "address": "Washington",
+      "city": "United states",
+      "state": "USA",
+      "zip": 54321,
+      "phoneNumber": "9876543210",
+      "emailId": "jeffbezos@gmail.com"
+    }
+  ]
+}
